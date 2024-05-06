@@ -1,6 +1,4 @@
-### Hi there 👋 
-
-##### I'm Mitali, deeply passionate about driving Digital Transformations within the realms of data and AI!
+### Hi there 👋 I'm Mitali, passionate about driving Digital Transformations within the realms of data and AI!
 
 
 <!--
