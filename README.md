@@ -1,5 +1,10 @@
-### Hi there 👋 I'm Mitali, passionate about driving Digital Transformations within the realms of data and AI!
+### Hi there 👋 I'm Mitali
 
+###### 🔭 Actively shaping digital futures
+###### 🌱 Delving deeper into AI advancements
+###### 👯 Seeking innovative collaborations
+###### 🤔 Exploring new data frontiers
+###### 💬 Discussing all things data and AI
 
 <!--
 **mitbans/mitbans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
