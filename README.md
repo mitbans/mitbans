@@ -5,6 +5,7 @@
 ###### 👯 Seeking innovative collaborations
 ###### 🤔 Exploring new data frontiers
 ###### 💬 Discussing all things data and AI
+###### 📫 Connect with me: <b><a href='https://www.linkedin.com/in/mitalibansal' target='_blank'>LinkedIn</a></b>
 
 <!--
 **mitbans/mitbans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
