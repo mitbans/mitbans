@@ -12,12 +12,14 @@ Welcome to my GitHub!
 <hr>
 
 ### Technical Skills
-Category	Skills
-Artificial Intelligence & Machine Learning	🤖 AI & ML, 🎨 Generative AI, 📊 Probability & Statistics, 🔍 Data Mining & Data Analysis, 📈 Linear & Multiple Regression, 🌲 k-Nearest Neighbors & Visual Decision Trees, 🌳 Ensemble Techniques (GBM, XGB, Random Forest), 🧠 Deep Neural Networks, 🗣️ NLP/G, 🔢 SVD, 🌐 Edge AI & Autonomous Systems
-Programming & Tools	🐍 Python, 📓 Jupyter, 📊 Pandas, Seaborn, Plotly, 💻 GitHub, 🛢️ SQL
-Cloud & Platforms	☁️ Google Cloud Certified, ☁️ AWS/Azure AI Tools
-Project Management & Methodologies	🏅 PMP®, ⚙️ Agile, 🗂️ Jira Align, 🛠️ SAFe® (POPM, RTE, SA)
-Data Migration & Office Tools	🔄 Syniti Data Migration, 📝 MS Office Tools
+
+Category     | Skills
+------------ | -------------
+Artificial Intelligence & Machine Learning | 🤖 AI & ML, 🎨 Generative AI, 📊 Probability & Statistics, 🔍 Data Mining & Data Analysis, 📈 Linear & Multiple Regression, 🌲 k-Nearest Neighbors & Visual Decision Trees, 🌳 Ensemble Techniques (GBM, XGB, Random Forest), 🧠 Deep Neural Networks, 🗣️ NLP/G, 🔢 SVD, 🌐 Edge AI & Autonomous Systems
+Programming & Tools | 🐍 Python, 📓 Jupyter, 📊 Pandas, Seaborn, Plotly, 💻 GitHub, 🛢️ SQL
+Cloud & Platforms	| Google Cloud Certified, AWS/Azure AI Tools
+Project Management & Methodologies | 🏅 PMP®, ⚙️ Agile, 🗂️ Jira Align, 🛠️ SAFe® (POPM, RTE, SA)
+Data Migration & Office Tools |	🔄 Syniti Data Migration, 📝 MS Office Tools
 
 <hr>
 
