@@ -1,23 +1,50 @@
-**Hi there! 👋 I'm Mitali**, a seasoned data analytics and AI professional, and I'm thrilled to welcome you to my GitHub profile!
+#### **Hi there! 👋 I'm Mitali**, a seasoned data analytics and AI professional!
 
-#### 🌟 Areas of Expertise
-    * Data Science & Analytics
-        - Data-Driven Decision Making
-        - KPI Development & Tracking
-    * Product & Program Management
-        - Product Strategy & Innovation
-        - Project Planning & Execution
-        - Go-to-Market (GTM) Strategy
-        - Release Planning & Communications
-    * Collaboration & Engagement
-        - Cross-Functional Collaboration
-        - Stakeholder Engagement & Relationship Building
-    * Leadership & Development
-        - Team Leadership & Development
-        - Problem Solving & Critical Thinking
-    * Operational Excellence
-        - Process Optimization
-        - Continuous Improvement
+#### 💼 Areas of Expertise
+
+<details>
+<summary>Data Science & Analytics</summary>
+<ul>
+   <li>Exploratory Data Analysis (EDA)</li>
+   <li>ML Data Modeling and MLOps</li>
+   <li>KPI Development & Tracking</li>
+</ul>
+</details>
+
+<details>
+<summary>Product & Program Management</summary>
+<ul>
+   <li>Product Strategy & Innovation</li>
+   <li>Project Planning & Execution</li>
+   <li>Go-to-Market (GTM) Strategy</li>
+   <li>Release Planning & Communications</li>
+</ul>
+</details>
+     
+<details>
+<summary>Collaboration & Engagement</summary>
+<ul>
+   <li>Cross-Functional Collaboration</li>
+   <li>Stakeholder Engagement & Relationship Building</li>
+</ul>
+</details>
+
+<details>
+<summary>Leadership & Development</summary>
+<ul>
+   <li>Team Leadership & Development</li>
+   <li>Problem Solving & Critical Thinking</li>
+</ul>
+</details>
+
+<details>
+<summary>Operational Excellence</summary>
+<ul>
+   <li>Process Optimization</li>
+   <li>Continuous Improvement</li>
+</ul>
+</details>
+
 <hr>
 
 <!-- Tech Stack -->  
