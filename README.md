@@ -1,7 +1,6 @@
-### Hi 👋 I'm Mitali, a data analytics and AI Professional!
-Welcome to my GitHub!
+**Hi there! 👋 I'm Mitali**, a seasoned data analytics and AI professional, and I'm thrilled to welcome you to my GitHub profile!
 
-### Areas of Expertise
+#### Areas of Expertise
 📊 Data Science & Data-Driven Decision Making <br>
 🏗️ Product, Program & Project Management <br>
 🚀 Innovative Product Strategy & KPI-Driven Solutions <br>
@@ -9,9 +8,11 @@ Welcome to my GitHub!
 🔄 Cross-Functional Collaboration & Team Leadership <br>
 🧩 Strategic Problem Solving & Process Optimization <br>
 
+![](https://komarev.com/ghpvc/?username=mitbans&style=flat&color=CB62B2) 
+
 <hr>
 
-### Technical Skills
+#### Tech Stack
 
 Category     | Skills
 ------------ | -------------
@@ -23,7 +24,7 @@ Data Migration & Office Tools |	🔄 Syniti Data Migration, 📝 MS Office Tools
 
 <hr>
 
-### Let's Connect!
+#### Let's Connect!
 Feel free to explore my repositories to see my projects and contributions in AI, machine learning, data analytics, and more. 
 <br>
 Connect with me on:
