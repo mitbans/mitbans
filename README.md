@@ -5,7 +5,7 @@ Welcome to my GitHub!
 :sparkles: Data Science / Data-Driven Decision-making
 * Product / Program / Project Management
 * Product Strategy, Innovation, KPI-driven Solutions
-* Stakeholder Engagement and Relationship Building
+👯 Stakeholder Engagement and Relationship Building
 * Cross-functional Collaboration, Team Leadership and Development
 * Problem Solving and Process Optimization
 
