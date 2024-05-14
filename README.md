@@ -7,7 +7,7 @@ I am a dynamic and results-oriented leader with over 18 years of distinguished e
 
 
 <p align="center">
-📄 <a href='' target='_blank'><b>Resume</b></a> &nbsp; &nbsp;
+[📄](https://github.com/mitbans/mitbans/blob/main/images/docx.svg) <a href='' target='_blank'><b>Resume</b></a> &nbsp; &nbsp;
 🌐 <a href='' target='_blank'><b>Website</b></a> &nbsp; &nbsp;
 📧 <a href='mailto: mitali.bansal.g@gmail.com' target='_blank'><b>Email</b></a>
 </p>
