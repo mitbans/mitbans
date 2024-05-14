@@ -1,13 +1,23 @@
 **Hi there! 👋 I'm Mitali**, a seasoned data analytics and AI professional, and I'm thrilled to welcome you to my GitHub profile!
 
 #### 🌟 Areas of Expertise
-- Data Science & Data-Driven Decision Making <br>
-- Product, Program & Project Management <br>
-- Innovative Product Strategy & KPI-Driven Solutions <br>
-- Stakeholder Engagement & Relationship Management <br>
-- Cross-Functional Collaboration & Team Leadership <br>
-- Strategic Problem Solving & Process Optimization <br>
-
+    * Data Science & Analytics
+        - Data-Driven Decision Making
+        - KPI Development & Tracking
+    * Product & Program Management
+        - Product Strategy & Innovation
+        - Project Planning & Execution
+        - Go-to-Market (GTM) Strategy
+        - Release Planning & Communications
+    * Collaboration & Engagement
+        - Cross-Functional Collaboration
+        - Stakeholder Engagement & Relationship Building
+    * Leadership & Development
+        - Team Leadership & Development
+        - Problem Solving & Critical Thinking
+    * Operational Excellence
+        - Process Optimization
+        - Continuous Improvement
 <hr>
 
 <!-- Tech Stack -->  
