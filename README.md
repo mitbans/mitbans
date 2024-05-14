@@ -2,7 +2,7 @@
 Welcome to my GitHub!
 
 ### Areas of Expertise
-* Data Science / Data-Driven Decision-making
+:sparkles: Data Science / Data-Driven Decision-making
 * Product / Program / Project Management
 * Product Strategy, Innovation, KPI-driven Solutions
 * Stakeholder Engagement and Relationship Building
