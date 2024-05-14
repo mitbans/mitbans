@@ -7,9 +7,9 @@ I am a dynamic and results-oriented leader with over 18 years of distinguished e
 
 
 <p align="center">
-📄 <a href='https://drive.google.com/file/d/1-gvNGPDhp_E4bNXWWVbYwM1vmzSOPGGY/view' target='_blank'><b>Resume</b></a> &nbsp; &nbsp;
-🌐 <a href='https://www.josephmiano.com' target='_blank'><b>Website</b></a> &nbsp; &nbsp;
-📧 <a href='mailto: j.miano@outlook.com' target='_blank'><b>Email</b></a>
+📄 <a href='' target='_blank'><b>Resume</b></a> &nbsp; &nbsp;
+🌐 <a href='' target='_blank'><b>Website</b></a> &nbsp; &nbsp;
+📧 <a href='mailto: mitali.bansal.g@gmail.com' target='_blank'><b>Email</b></a>
 </p>
 
 ### Technical Skills
