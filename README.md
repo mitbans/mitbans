@@ -2,7 +2,8 @@
 Welcome to my GitHub!
 
 ### Areas of Expertise
-✨ Data Science / Data-Driven Decision-making
+![image](https://github.com/mitbans/mitbans/assets/166747739/bd854387-bce1-4057-ac4b-61c531a778cd)
+ Data Science / Data-Driven Decision-making
 * Product / Program / Project Management
 * Product Strategy, Innovation, KPI-driven Solutions
 👯 Stakeholder Engagement and Relationship Building
