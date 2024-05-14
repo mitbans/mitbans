@@ -21,7 +21,7 @@ I am a dynamic and results-oriented leader with over 18 years of distinguished e
   </tr>
   <tr>
     <td><b>ML & Big Data</b></td>
-    <td><img src='https://img.shields.io/static/v1?label=&message=PyTorch&color=EE4C2C&logo=pytorch&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=scikit-learn&color=3499CD&logo=scikitlearn&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=PySpark&color=E25A1C&logo=apachespark&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=Dask&color=EF1161&logo=Dask&logoColor=white'></td>
+    <td><img src='https://img.shields.io/static/v1?label=&message=PyTorch&color=EE4C2C&logo=pytorch&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=scikit-learn&color=3499CD&logo=scikitlearn&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=PySpark&color=E25A1C&logo=apachespark&logoColor=white'></td>
   </tr>
   <tr>
     <td><b>Visualization</b></td>
