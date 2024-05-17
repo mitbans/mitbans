@@ -66,7 +66,7 @@
 
 <b><a href='https://www.linkedin.com/in/mitalibansal/' target='_blank'>LinkedIn</a></b> | 
 <b><a href='' target='_blank'>Resume</a></b> | 
-<b><a href='' target='_blank'>Website</a></b> | 
+<b><a href='https://mitbans.github.io/' target='_blank'>Website</a></b> | 
 <b><a href='mailto: mitali.bansal.g@gmail.com' target='_blank'>Email</a></b>
 <br><br>
 ![](https://komarev.com/ghpvc/?username=mitbans&style=flat&color=CB62B2) 
