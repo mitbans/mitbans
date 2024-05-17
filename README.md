@@ -71,7 +71,6 @@
 <br><br>
 ![](https://komarev.com/ghpvc/?username=mitbans&style=flat&color=CB62B2) 
 <hr>
-
 <!--
 **mitbans/mitbans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
