@@ -58,7 +58,7 @@
 **ML & AI** | <img src='https://github.com/mitbans/mitbans/blob/main/images/MLAI/Scikit-learn.png' style="width: auto; height: 30px;">
 **Visualization Tools** | <img src='https://github.com/mitbans/mitbans/blob/main/images/Visualization/Matplotlib.png' style="width: auto; height: 30px;"> &nbsp; <img src='https://github.com/mitbans/mitbans/blob/main/images/Visualization/Seaborn.png' style="width: auto; height: 30px;"> &nbsp; <img src='https://github.com/mitbans/mitbans/blob/main/images/Visualization/Plotly.png' style="width: auto; height: 30px;">
 **Frameworks** | <img src='https://img.shields.io/static/v1?label=&message=Conda&color=44A833&logo=anaconda&logoColor=white'> 
-**Miscellaneous** | <img src='https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white'>
+**DevOps & MLOps** | <img src='https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white'>
   </p> 
 <hr>
 
