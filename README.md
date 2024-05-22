@@ -49,17 +49,35 @@
 
 <!-- Tech Stack -->  
 <b>🛠️ Tech Stack</b>
-    <p>
 
-| **Category** | **Technologies** |
-| - | - |
-**Programming Languages** | <img src='https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=white'> &nbsp; <img src='https://img.shields.io/static/v1?label=&message=SQL&color=004F9F&logo=postgresql&logoColor=white'> &nbsp; <img src='https://img.shields.io/static/v1?label=&message=Java&color=f89820&logo=java&logoColor=white'>
-**ML & AI** | <img src='https://github.com/mitbans/mitbans/blob/main/images/MLAI/Scikit-learn.png' style="width: auto; height: 30px;">
-**Visualization Tools** | <img src='https://github.com/mitbans/mitbans/blob/main/images/Visualization/Matplotlib.png' style="width: auto; height: 30px;"> &nbsp; <img src='https://github.com/mitbans/mitbans/blob/main/images/Visualization/Seaborn.png' style="width: auto; height: 30px;"> &nbsp; <img src='https://github.com/mitbans/mitbans/blob/main/images/Visualization/Plotly.png' style="width: auto; height: 30px;">
-**Frameworks** | <img src='https://img.shields.io/static/v1?label=&message=Conda&color=44A833&logo=anaconda&logoColor=white'> 
-**DevOps & MLOps** | <img src='https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white'>
-**Cloud Computing** | <img src='https://github.com/mitbans/mitbans/blob/main/images/Cloud/AWS.png' style="width: auto; height: 30px;"> &nbsp; <img src='https://github.com/mitbans/mitbans/blob/main/images/Cloud/GCP.png' style="width: auto; height: 30px;"> &nbsp; <img src='https://github.com/mitbans/mitbans/blob/main/images/Cloud/Azure.png' style="width: auto; height: 30px;">
-  </p> 
+## Tech Stack
+
+## Tech Stack
+
+| **Category**               | **Technologies**                                                                 |
+|----------------------------|----------------------------------------------------------------------------------|
+| **Programming Languages**  | Python, SQL, Java                                                                |
+| **ML & AI**                | Scikit-learn                                                                     |
+| **Visualization Tools**    | Matplotlib, Seaborn, Plotly                                                      |
+| **Frameworks**             | Conda                                                                            |
+| **DevOps & MLOps**         | Git, Docker, Kubernetes, Jenkins, MLflow                                         |
+| **Cloud Computing**        | AWS, Google Cloud, Azure, Snowflake                                              |
+| **Data Storage**           | MySQL                                                                            |
+| **Big Data Tools**         | Apache Kafka                                                                     |
+| **Data Processing**        | Pandas                                                                           |
+| **Version Control**        | Git, GitHub, GitLab                                                              |
+| **IDEs & Editors**         | Jupyter Notebook, PyCharm, Visual Studio Code                                    |
+| **Containerization**       | Docker                                                                           |
+| **CI/CD Tools**            | Jenkins, GitLab CI/CD                                                            |
+| **APIs**                   | REST, GraphQL                                                                    |
+| **Monitoring & Logging**   | Grafana, Splunk                                                                  |
+| **Security Tools**         | SonarQube                                                                        |
+| **Collaboration Tools**    | Slack, Microsoft Teams, Zoom, Google Meet, Confluence                            |
+| **Project Management**     | Jira, Trello, MS Project                                                         |
+| **Data Warehousing**       | Snowflake, BigQuery, Redshift, Azure Synapse                                     |
+| **NoSQL Databases**        | MongoDB                                                                          |
+
+
 <hr>
 
 #### 💬 Let's get in touch!
