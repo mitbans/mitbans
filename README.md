@@ -48,35 +48,22 @@
 <hr>
 
 <!-- Tech Stack -->  
-<b>🛠️ Tech Stack</b>
+<b>🛠️ Tech Stack</b>                                                                      |
 
-## Tech Stack
+<p>
 
-## Tech Stack
+| **Category** | **Technologies** |
+| - | - |
+**Programming Languages** | <img src='https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=SQL&color=004F9F&logo=postgresql&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=SageMath&color=1b1ab6&logo=PyG&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=c%2B%2B&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=Java&color=f89820&logo=java&logoColor=white'>
+**ML & AI** | <img src='https://img.shields.io/static/v1?label=&message=PyTorch&color=EE4C2C&logo=pytorch&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=scikit-learn&color=F7931E&logo=scikitlearn&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=Hugging%20Face&color=FFC83D&logo=Hugging&logoColor=white'>
+**Visualization Tools** | <img src='https://img.shields.io/static/v1?label=&message=Plotly&color=404f76&logo=plotly&logoColor=a4a4bb'> <img src='https://img.shields.io/static/v1?label=&message=Tableau&color=60688D&logo=Tableau&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=LookerStudio&color=4484f3&logo=Looker&logoColor=white'>  <img src='https://img.shields.io/static/v1?label=&message=Power%20BI&color=F2C811&logo=powerbi&logoColor=gray'>
+**Frameworks** | <img src='https://img.shields.io/static/v1?label=&message=PySpark&color=E25A1C&logo=apachespark&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=Selenium&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=Open%20CV&color=5C3EE8&logo=opencv&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=flask&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=Conda&color=44A833&logo=anaconda&logoColor=white'> 
+**DevOps & MLOps** | <img src='https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=VIM&color=019733&logo=vim&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=LaTeX&color=008080&logo=LaTeX&logoColor=white'>
+**Cloud Computing** | <img src='https://img.shields.io/static/v1?label=&message=AWS&color=FF9900&logo=amazonaws&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=GCP&color=4285F4&logo=google-cloud&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=Heroku&color=430098&logo=heroku&logoColor=white'>
+**Data Storage** | 
+**Big Data Tools** | 
 
-| **Category**               | **Technologies**                                                                 |
-|----------------------------|----------------------------------------------------------------------------------|
-| **Programming Languages**  | Python, SQL, Java                                                                |
-| **ML & AI**                | Scikit-learn                                                                     |
-| **Visualization Tools**    | Matplotlib, Seaborn, Plotly                                                      |
-| **Frameworks**             | Conda                                                                            |
-| **DevOps & MLOps**         | Git, Docker, Kubernetes, Jenkins, MLflow                                         |
-| **Cloud Computing**        | AWS, Google Cloud, Azure, Snowflake                                              |
-| **Data Storage**           | MySQL                                                                            |
-| **Big Data Tools**         | Apache Kafka                                                                     |
-| **Data Processing**        | Pandas                                                                           |
-| **Version Control**        | Git, GitHub, GitLab                                                              |
-| **IDEs & Editors**         | Jupyter Notebook, PyCharm, Visual Studio Code                                    |
-| **Containerization**       | Docker                                                                           |
-| **CI/CD Tools**            | Jenkins, GitLab CI/CD                                                            |
-| **APIs**                   | REST, GraphQL                                                                    |
-| **Monitoring & Logging**   | Grafana, Splunk                                                                  |
-| **Security Tools**         | SonarQube                                                                        |
-| **Collaboration Tools**    | Slack, Microsoft Teams, Zoom, Google Meet, Confluence                            |
-| **Project Management**     | Jira, Trello, MS Project                                                         |
-| **Data Warehousing**       | Snowflake, BigQuery, Redshift, Azure Synapse                                     |
-| **NoSQL Databases**        | MongoDB                                                                          |
-
+</p>
 
 <hr>
 
