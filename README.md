@@ -76,6 +76,8 @@
 ![](https://komarev.com/ghpvc/?username=mitbans&style=flat&color=CB62B2) 
 <hr>
 <!--
+https://simpleicons.org/
+https://htmlcolorcodes.com/color-names/?source=post_page-----d2aeaf016b6b--------------------------------
 **mitbans/mitbans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
