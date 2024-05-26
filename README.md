@@ -76,7 +76,11 @@
 <b><a href='mailto: mitali.bansal.g@gmail.com' target='_blank'>Email</a></b>
 <br><br>
 ![](https://komarev.com/ghpvc/?username=mitbans&style=flat&color=CB62B2) 
+
 <hr>
+
+
+
 <!--
 https://simpleicons.org/
 https://htmlcolorcodes.com/color-names/?source=post_page-----d2aeaf016b6b--------------------------------
