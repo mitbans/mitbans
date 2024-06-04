@@ -5,9 +5,16 @@
 <details>
 <summary>Data Science & Analytics</summary>
 <ul>
+   <li>Python Progarmming</li>
    <li>Exploratory Data Analysis (EDA)</li>
    <li>ML Data Modeling and MLOps</li>
    <li>KPI Development & Tracking</li>
+   <li>Clustering and Principal Component Analysis</li>
+   <li>Linear and Multiple Regression</li>
+   <li>Natural Language Processing (NLP)</li>
+   <li>Recommendation Systems</li>
+   <li>Deep Neural Networks (DNN)</li>
+   <li>Ensemble Techniques (GBM, XGB and Random Forest)</li>
 </ul>
 </details>
 
