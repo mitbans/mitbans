@@ -9,7 +9,6 @@
    <li>Exploratory Data Analysis (EDA)</li>
    <li>ML Data Modeling and MLOps</li>
    <li>KPI Development & Tracking</li>
-   <li>Clustering and Principal Component Analysis</li>
    <li>Linear and Multiple Regression</li>
    <li>Natural Language Processing (NLP)</li>
    <li>Recommendation Systems</li>
