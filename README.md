@@ -1,10 +1,9 @@
-👋 Hi there, I’m Mitali
+👋 Hi there, I’m Mitali, AI/ML/Gen AI Advocate
 
-- 💬 Ask me about Data Science, AI/ML, Gen AI, IT Product & Program Management
-- 👯 I’m looking to collaborate on Machine Learning & Artificial Intelligence projects
-- 📫 How to reach me: <b><a href='https://www.linkedin.com/in/mitalibansal/' target='_blank'>LinkedIn</a></b>
-<br><br>
-![](https://komarev.com/ghpvc/?username=mitbans&style=flat&color=CB62B2) 
+- 📫 How to reach me: [Email](mailto:mitali.bansal.g@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mitalibansal/)
+
+
+![](https://komarev.com/ghpvc/?username=mitbans&style=flat&color=CB62B2)
 <hr>
 
 
