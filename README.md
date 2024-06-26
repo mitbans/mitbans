@@ -1,6 +1,6 @@
 👋 Hi there, I’m Mitali, AI/ML/Gen AI Advocate
 
-- 📫 How to reach me: [Email](mailto:mitali.bansal.g@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mitalibansal/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mitalibansal/) | [Email](mailto:mitali.bansal.g@gmail.com)
 
 
 ![](https://komarev.com/ghpvc/?username=mitbans&style=flat&color=CB62B2)
